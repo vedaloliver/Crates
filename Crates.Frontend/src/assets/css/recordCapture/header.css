@@ -1,0 +1,55 @@
+.header-container{
+    background-color: white;
+    --body-color: 48 48 58;
+    --font-color: 255 255 255;
+    --highlight-color: 0 0 0;
+    --theme-background: 28 27 30;
+    --theme-light: 0 0 0;
+    --theme-medium: 46 44 53;
+    --theme-dark: 0 0 0;
+    background-color: rgb(var(--body-color));
+}
+
+
+#discover-toggles {
+    width: 100%;
+    display: flex; 
+    background-color: rgb(var(--theme-medium));
+    margin: auto;
+    border-radius: 0.5rem;  
+  }
+  
+  #discover-toggles > button {
+    flex-grow: 1;
+    background-color: transparent;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 0.5rem;
+    outline: none;
+    font-size: 0.9rem;
+    cursor: pointer;
+    color:white;
+  }
+  
+  #discover-toggles > button:first-child {
+    padding-top:20px;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    width: 100%;
+    border-bottom: 3px solid rgb(var(--theme-medium));
+  }
+  
+  #discover-toggles > button:last-child {
+    padding-top:20px;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    border-bottom-right-radius: 0rem;
+    background-color: rgb(255 255 255 / 8%);
+
+
+
+    width: 100%;
+
+    
+  }
+  

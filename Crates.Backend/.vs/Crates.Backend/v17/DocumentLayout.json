@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B56F3EF3-9D5E-4D03-903D-8649BB1328A7}|Crates.Backend.Controller\\Crates.Backend.Controller.csproj|c:\\users\\ojwar\\documents\\coding projects\\crates\\crates.ai\\cratesai.backend\\crates.backend.controller\\crates.backend.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B56F3EF3-9D5E-4D03-903D-8649BB1328A7}|Crates.Backend.Controller\\Crates.Backend.Controller.csproj|solutionrelative:crates.backend.controller\\crates.backend.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DC3D0-0A2B-45BE-A04B-D634425C900A}|Crates.Backend.Services\\Crates.Backend.Services.csproj|c:\\users\\ojwar\\documents\\coding projects\\crates\\crates.ai\\cratesai.backend\\crates.backend.services\\discogssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341DC3D0-0A2B-45BE-A04B-D634425C900A}|Crates.Backend.Services\\Crates.Backend.Services.csproj|solutionrelative:crates.backend.services\\discogssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\DiscogsSearchService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiggerAi.Backend.Services\\DiscogsSearchService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\Digger.Ai\\backend\\DiggerAi.Controller\\DiggerAi.Controller\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\Crates.Backend.Controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.Controller\\Crates.Backend.Controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\OAuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.Controller\\OAuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.Controller\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\ImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.Controller\\ImageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\ImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiggerAi.Backend.Services\\ImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\IImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiggerAi.Backend.Services\\IImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\Crates.Backend.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.Models\\Crates.Backend.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\CapturedText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.Models\\CapturedText.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341DC3D0-0A2B-45BE-A04B-D634425C900A}|Crates.Backend.Services\\Crates.Backend.Services.csproj|c:\\users\\ojwar\\documents\\coding projects\\crates\\crates.ai\\cratesai.backend\\crates.backend.services\\idiscogssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341DC3D0-0A2B-45BE-A04B-D634425C900A}|Crates.Backend.Services\\Crates.Backend.Services.csproj|solutionrelative:crates.backend.services\\idiscogssearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\DiscogsOAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiggerAi.Backend.Services\\DiscogsOAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.DataAccess\\Crates.Backend.DataAccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.DataAccess\\Crates.Backend.DataAccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\Crates.Backend.Models.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CratesAi.Backend.Models\\Crates.Backend.Models.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\Crates.Backend.Services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiggerAi.Backend.Services\\Crates.Backend.Services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscogsSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\Crates.Backend.Services\\DiscogsSearchService.cs",
+              "RelativeDocumentMoniker": "Crates.Backend.Services\\DiscogsSearchService.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\Crates.Backend.Services\\DiscogsSearchService.cs",
+              "RelativeToolTip": "Crates.Backend.Services\\DiscogsSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:48:01.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crates.Backend.Controller",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\Crates.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "RelativeDocumentMoniker": "Crates.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\Crates.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "RelativeToolTip": "Crates.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T10:47:46.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGcIAAAAAAAAAAD4v3QIAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-08T10:47:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crates.Backend.Controller.csproj",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "RelativeDocumentMoniker": "CratesAi.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "RelativeToolTip": "CratesAi.Backend.Controller\\Crates.Backend.Controller.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T10:46:23.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\OAuthController.cs",
+              "RelativeDocumentMoniker": "CratesAi.Backend.Controller\\OAuthController.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\OAuthController.cs",
+              "RelativeToolTip": "CratesAi.Backend.Controller\\OAuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:51:42.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\Program.cs",
+              "RelativeDocumentMoniker": "CratesAi.Backend.Controller\\Program.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\Program.cs",
+              "RelativeToolTip": "CratesAi.Backend.Controller\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:19:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\ImageController.cs",
+              "RelativeDocumentMoniker": "CratesAi.Backend.Controller\\ImageController.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\ImageController.cs",
+              "RelativeToolTip": "CratesAi.Backend.Controller\\ImageController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:21:35.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "DiggerAi.Backend.Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\ImageService.cs",
+              "RelativeToolTip": "DiggerAi.Backend.Services\\ImageService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:24:23.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscogsSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\DiscogsSearchService.cs",
+              "RelativeDocumentMoniker": "DiggerAi.Backend.Services\\DiscogsSearchService.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\DiscogsSearchService.cs",
+              "RelativeToolTip": "DiggerAi.Backend.Services\\DiscogsSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:57:11.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\IImageService.cs",
+              "RelativeDocumentMoniker": "DiggerAi.Backend.Services\\IImageService.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\IImageService.cs",
+              "RelativeToolTip": "DiggerAi.Backend.Services\\IImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:44:47.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Crates.Backend.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "RelativeDocumentMoniker": "CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "RelativeToolTip": "CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T14:27:06.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CapturedText.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\CapturedText.cs",
+              "RelativeDocumentMoniker": "CratesAi.Backend.Models\\CapturedText.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\CapturedText.cs",
+              "RelativeToolTip": "CratesAi.Backend.Models\\CapturedText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:43:34.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDiscogsSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\Crates.Backend.Services\\IDiscogsSearchService.cs",
+              "RelativeDocumentMoniker": "Crates.Backend.Services\\IDiscogsSearchService.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\Crates.Backend.Services\\IDiscogsSearchService.cs",
+              "RelativeToolTip": "Crates.Backend.Services\\IDiscogsSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:55:55.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiscogsOAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\DiscogsOAuthService.cs",
+              "RelativeDocumentMoniker": "DiggerAi.Backend.Services\\DiscogsOAuthService.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\DiscogsOAuthService.cs",
+              "RelativeToolTip": "DiggerAi.Backend.Services\\DiscogsOAuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:50:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\appsettings.json",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Controller\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T15:08:35.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Crates.Backend.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.DataAccess\\Crates.Backend.DataAccess.csproj",
+              "RelativeDocumentMoniker": "CratesAi.Backend.DataAccess\\Crates.Backend.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.DataAccess\\Crates.Backend.DataAccess.csproj",
+              "RelativeToolTip": "CratesAi.Backend.DataAccess\\Crates.Backend.DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T14:26:29.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Crates.Backend.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "RelativeDocumentMoniker": "CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "RelativeToolTip": "CratesAi.Backend.Models\\Crates.Backend.Models.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T14:27:08.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Crates.Backend.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\Crates.Backend.Services.csproj",
+              "RelativeDocumentMoniker": "DiggerAi.Backend.Services\\Crates.Backend.Services.csproj",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\crates\\Crates.Ai\\CratesAi.Backend\\DiggerAi.Backend.Services\\Crates.Backend.Services.csproj",
+              "RelativeToolTip": "DiggerAi.Backend.Services\\Crates.Backend.Services.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T14:27:19.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ojwar\\Documents\\Coding Projects\\Digger.Ai\\backend\\DiggerAi.Controller\\DiggerAi.Controller\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Digger.Ai\\backend\\DiggerAi.Controller\\DiggerAi.Controller\\Program.cs",
+              "ToolTip": "C:\\Users\\ojwar\\Documents\\Coding Projects\\Digger.Ai\\backend\\DiggerAi.Controller\\DiggerAi.Controller\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Digger.Ai\\backend\\DiggerAi.Controller\\DiggerAi.Controller\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T20:49:55.491Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

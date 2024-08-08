@@ -1,0 +1,21 @@
+Backend
+- Make a paint function for the picture allowing
+-- dragged by cursor or touch to get what part of the picture is needed before sending it across
+- Set up user accounts
+
+- Discogs Api
+-- Search function
+--- gets the possible results in a small list
+---- name
+---- artist
+---- photo
+---- median price 
+
+
+Frontend
+- Make nicer buttons for the capture and analyse image
+- make it mobile friendly
+
+
+Infra
+- Set up a database
