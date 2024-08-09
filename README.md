@@ -1,5 +1,6 @@
-<br>Crates - Record Collection Valuation</br>
+<b>Crates - Record Collection Valuation</b>
 
+<hr>
 
 Crates is a web application designed for hobbyists to easily value their record collections. Leveraging Discogs' extensive API and Optical Character Recognition (OCR) technology, Crates enables users to obtain pricing information about their records
 
