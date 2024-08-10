@@ -1,4 +1,5 @@
-﻿using Crates.Backend.Services;
+﻿using Crates.Backend.Models;
+using Crates.Backend.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models;
@@ -46,7 +47,7 @@ namespace Crates.Backend.Controller
 
             try
             {
-                var searchQuery = await this.discogsService.SearchAsync(query);
+                DiscogsSearchResult searchQuery = await this.discogsService.SearchAsync(query);
                 return Ok();
 
             }

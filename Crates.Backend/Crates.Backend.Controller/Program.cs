@@ -36,20 +36,10 @@ builder.Services.AddScoped<IDiscogsSearchService>(provider =>
     var httpClient = new HttpClient();
     string consumerKey = "eNABZZICxzejRrQxORSX";
     string consumerSecret = "NkcnxoVvGHkTkXNjOcInkdYacwRVABPE";
-
-    string accessToken = "your_access_token";
-    string accessTokenSecret = "your_access_token_secret";
-    return new DiscogsSearchService(httpClient, consumerKey, consumerSecret, accessToken, accessTokenSecret);
+    return new DiscogsSearchService(httpClient, consumerKey, consumerSecret);
 });
 
-builder.Services.AddSingleton<DiscogsOAuthService>(provider =>
-{
-    var httpClient = new HttpClient();
-    string consumerKey = "eNABZZICxzejRrQxORSX";
-    string consumerSecret = "NkcnxoVvGHkTkXNjOcInkdYacwRVABPE";
-    string callbackUrl = "https://localhost:5001/api/oauth/callback"; // Update this to your actual callback URL
-    return new DiscogsOAuthService(httpClient, consumerKey, consumerSecret, callbackUrl);
-});
+
 
 
 // Azure Blob Storage

@@ -1,7 +1,9 @@
-﻿namespace Crates.Backend.Services
+﻿using Crates.Backend.Models;
+
+namespace Crates.Backend.Services
 {
     public interface IDiscogsSearchService
     {
-        Task<string> SearchAsync(string query);
+        Task<DiscogsSearchResult> SearchAsync(string query);
     }
 }
